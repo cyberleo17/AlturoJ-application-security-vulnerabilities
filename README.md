@@ -8,3 +8,6 @@ AltoroJ uses Apache Derby as its SQL database that is automatically initialized 
 
 AltoroJ was created in 2008 and has gone through a number of iterations since then. It currently, being used around the world to demonstrate application security vulnerabilities, educate folks on how easy some of these issues are to exploit and how severe the impact may be, and is even a part of academic curricula. Even though AltoroJ is pretty stable, if you do find a bug or create a cool exploit for one of its vulnerabilities - please let us know!!!
 
+Please download the following dependencies:
+- Apache Tomcat 7/8/9 (or pull it from this repository).
+- IntelliJ Ultimate (To set-up Tomcat Local Server).
